@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Suraj Satish Narule
 
-<!--
-**Suraj9008/Suraj9008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+🚀 Backend / Full Stack Developer  
+💻 Passionate about scalable backend systems & modern web apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,postgres,redis,kafka,docker,express,git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎟 SeatFlow
+Real-time seat booking backend system with:
+- Redis Seat Locking
+- Kafka Event Streaming
+- PostgreSQL + Prisma
+- Dockerized Services
+- Booking APIs
+
+---
+
+### 💱 Exchange Coins
+Crypto exchange related TypeScript application.
+
+---
+
+## 📊 GitHub Stats
+
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suraj9008&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Suraj9008&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Suraj9008
