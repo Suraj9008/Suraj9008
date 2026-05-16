@@ -19,6 +19,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Suraj9008&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🎟 SeatFlow
@@ -53,6 +61,12 @@ Worked on scalable backend systems using:
 
 ---
 
+## 📈 Contribution Graph
+
+[![Suraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suraj9008&theme=tokyo-night)](https://github.com/Suraj9008)
+
+---
+
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Suraj9008
@@ -63,6 +77,12 @@ Worked on scalable backend systems using:
 ## ⚡ Fun Fact
 
 💡 I enjoy building scalable backend systems, solving real-world problems, and learning modern backend architecture.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suraj9008&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
