@@ -22,6 +22,7 @@
 ## 🚀 Featured Projects
 
 ### 🎟 SeatFlow
+
 Real-time seat booking backend system with:
 
 - Redis Seat Locking
@@ -39,45 +40,23 @@ Crypto exchange related TypeScript application.
 
 ---
 
-### 🛒 E-Commerce / Backend Projects
+### 🛒 Backend Projects
 
 Worked on scalable backend systems using:
+
 - Node.js
 - Express.js
 - PostgreSQL
 - Redis
 - REST APIs
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suraj9008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj9008&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suraj9008&theme=tokyonight" />
-</p>
+- Docker
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-
 - GitHub: https://github.com/Suraj9008
 - LinkedIn: https://linkedin.com/in/suraj-narule-b75439126
-
-</p>
 
 ---
 
